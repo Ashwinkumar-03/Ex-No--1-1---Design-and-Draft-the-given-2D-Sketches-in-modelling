@@ -28,6 +28,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](3.png)
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
+
 ![image](4.png)
 
 
